@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 46426a46-387e-42ed-a39e-e983c876472c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e5c8ab9d-5a85-40cd-9e15-fec89081c4c3
+  name: Topics and Readings
+  pageRef: /pages/topics-and-readings
+  weight: 20
+- identifier: a1dc6165-722c-44da-874a-f63862b13e71
+  name: Video Lectures
+  pageRef: /video_galleries/1402-lecture-videos
+  weight: 30
+- identifier: f7a5c7ba-0a52-45ff-b004-3ca81d53ee08
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 40
+- identifier: 07a7e5eb-ef71-4ab8-b920-4b64fbcd5a88
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 50

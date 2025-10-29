@@ -21,7 +21,7 @@ There is one primary text for the course:
 
 Blanchard, Oliver. *Macroeconomics*, 8th edition. Pearson, 2021. ISBN: 9781292351476. 
 
-There will often be additional reading material. You are also encouraged to read current articles on macroeconomics in [*The Economist*](https://www.economist.com/), [*The Wall Street Journal*](https://www.wsj.com/), or the [*Financial Times*](https://www.ft.com/) regularly during the semester to stay abreast of economic events, which we will periodically discuss in class.
+There will often be additional reading material. You are also encouraged to read current articles on macroeconomics in {{% resource_link "0bfef797-d62b-4e28-8cd6-a7ee29ccc0e2" "*The Economist*" %}}, {{% resource_link "01290e3f-354c-4db2-9f82-8961f64d8137" "*The Wall Street Journal*" %}}, or the {{% resource_link "20be4f7f-a558-4e41-b0e2-61bda57cd299" "*Financial Times*" %}} regularly during the semester to stay abreast of economic events, which we will periodically discuss in class.
 
 ## Evaluations: Problem Sets and Quizzes
 
